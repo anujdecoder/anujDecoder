@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anuj</h1>
 <h3 align="center">Full Stack Developer with 4+ years of experience</h3>
 
-## 🌐Socials
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-a-gupta)
 
 
-## 💻Tech Stack
+## 💻 Tech Stack
 
 <p >
 <div style="display: flex; align-items: center; flex-wrap: wrap">
@@ -88,3 +88,12 @@
             height="40"/> </a><span style="width: 16px"></span>
 </div>
 </p>
+
+## 📊 GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=anujdecoder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anujdecoder&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anujdecoder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anujdecoder&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
